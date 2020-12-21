@@ -6,8 +6,8 @@ This schedule will be used to keep track of your progress throughout the week an
 You are **responsible** for scheduling time with your squad to seek approval for each deliverable by the end of the corresponding day, excluding `Saturday` and `Sunday`.
 |  Day | Deliverable | Status
 |---|---| ---|
-|Day 1| Project Description | Incomplete
-|Day 1| Wireframes / Priority Matrix / Timeline | Incomplete
+|Day 1| My Portfolio | Complete
+|Day 1| Wireframes / Priority Matrix / Timeline | Complete
 |Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
 |Day 4| MVP & Bug Fixes | Incomplete
 |Day 5| Final Touches | Incomplete
@@ -15,30 +15,31 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+I posted the links below in Portfolio I Want To Emulate on which styles I'd like to incorporate.
 
 ## Google Sheet
 
-Include link to your google sheet here.  Here is the sample [Joe had used in class](https://docs.google.com/spreadsheets/d/15PmioBi2dQEkewpqI7MDkDpvcVF0Trw8vmarAQbwoHk/edit#gid=0) 
+(https://docs.google.com/spreadsheets/d/1GngbnJmQbGTRqSRAIn0GDWu3cRhh_9tudbz8fXd1u2Q/edit#gid=0)
 
 ## Portfolio I want to Emulate
 
-Search and compare at least 3 profile web sites.  Record your findings in the table below and include some aspect of the site that you would like to incorporate into your own site.
-Link To Site  | One Thing I'd Like To Incorporate | 
+I really did enjoy these top four portfolios that I'd like to incorporate into my portfolio | 
 | ------------- | ------------- |
-| [denisechandler.com](http://www.denisechandler.com/)%7C landing page animation
-|[jkeohan.com](http://jkeohan.com/) | mouseover on a project triggers animations |
-| [mattfarley.ca](http://mattfarley.ca/) |  layout of the projects
+| [Emily Ridge](https://ianlunn.co.uk/) |  Animated hamburger
+|[Pierre](https://pierre.io/) | His Recent Work list is fun |
+ [Jacek Jeznach] (https://jacekjeznach.com/) | Everything about his home page
+| [mattfarley.ca](http://mattfarley.ca/) | The clean layout( Really liked this one)
 ---
 ## Wireframes
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
-- [Mobile](https://i.imgur.com/P3iBEZf.jpg)
-- [Desktop](https://i.imgur.com/xpOWo0E.jpg)
+- [Mobile](https://i.imgur.com/ogTq2tE.jpg)
+- [Tablet](https://i.imgur.com/9bv9bV2.jpg)
+- [Desktop](https://i.imgur.com/O9JQJOh.jpg)(https://i.imgur.com/09yOpc6.jpg)(https://i.imgur.com/wmRhvcI.jpg)
 Wireframing Resources:
 - [Mockflow](https://mockflow.com/app/#Wireframe)
 - [Figma](https://www.figma.com/)
 ## Time/Priority Matrix 
-[Link](https://res.cloudinary.com/jkeohan/image/upload/a_270/v1591621734/project1_matrix_ocy5gc_h1kg0m.jpg)
+[Link](https://i.imgur.com/wJ5AOGk.jpg)
 Include a full list of features that have been prioritized based on the `Time and Priority` Matix.  This involves drawing a a square.  In the middle of the square, on the x axis draw a line.  The most left part of the line should start with 0hrs and the end of the line should include 2hrs.  This line will be used to estimate how much time any one feature will take to complete. 
 Now draw a vertical line on the y axis.  The top of this line should have `High` and the bottom `Low`.  This line will be used to assign a priority to to each feature you wish to include in the project.  
 Now create a separate list starting with A and assign it one of the features.  Continue to assign each feature a letter.  Once complete add each letter to the matrix assigning based on what your feel it's prioirty is an how long it will take to implement. If any one feature takes longer than 2hrs to complete than break it down into smaller tasks and reassign them a new letter. 
@@ -58,11 +59,11 @@ Time frames are also key in the development cycle.  You have limited time to cod
 #### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Hamburger | H | 1hr | hr |
-| Project Previews | H | 3hr | hr |
-| Regular Nav | H | 1hr | hr |  
-| Adding Form | H | 1.5hr|  hr | 
-| Other sections and flex| M | 3hr | hr|
+| Nav bar w/Drop menu | H | 1hr | hr |
+| Grid layout | H | 2hr | hr |
+| Cards | M | 1.5hr | hr |  
+| Carousel (Projects) | H | 1.5hr|  hr | 
+| Colors/CSS| M | 1.5hr | hr|
 | Working with API | H | 3hrs|  hr | 
 | Responsive | H | 3hr | hr | hr |
 | Social Media Icons | L | 1hr |  hr |
