@@ -19,22 +19,25 @@ I posted the links below in Portfolio I Want To Emulate on which styles I'd like
 
 ## Google Sheet
 
-(https://docs.google.com/spreadsheets/d/1GngbnJmQbGTRqSRAIn0GDWu3cRhh_9tudbz8fXd1u2Q/edit#gid=0)
+[google sheet](https://docs.google.com/spreadsheets/d/1GngbnJmQbGTRqSRAIn0GDWu3cRhh_9tudbz8fXd1u2Q/edit#gid=0)
 
 ## Portfolio I want to Emulate
 
-I really did enjoy these top four portfolios that I'd like to incorporate into my portfolio | 
+|I really did enjoy these top four portfolios that I'd like to incorporate into my portfolio | | 
 | ------------- | ------------- |
 | [Emily Ridge](https://ianlunn.co.uk/) |  Animated hamburger |
 | [Pierre](https://pierre.io/) | His Recent Work list is fun |
-| [Jacekjeznach.com] (https://jacekjeznach.com/) | Everything about his home page |
+| [Jacekjeznach.com](https://jacekjeznach.com/) | Everything about his home page |
 | [mattfarley.ca](http://mattfarley.ca/) | The clean layout( Really liked this one) |
+
 ---
 ## Wireframes
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
 - [Mobile](https://i.imgur.com/ogTq2tE.jpg)
 - [Tablet](https://i.imgur.com/9bv9bV2.jpg)
-- [Desktop](https://i.imgur.com/O9JQJOh.jpg)(https://i.imgur.com/09yOpc6.jpg)(https://i.imgur.com/wmRhvcI.jpg)
+- [Desktop](https://i.imgur.com/O9JQJOh.jpg)
+- [Desktop 2](https://i.imgur.com/09yOpc6.jpg)
+- [Desktop 3](https://i.imgur.com/wmRhvcI.jpg)
 
 ## Time/Priority Matrix 
 [Link](https://i.imgur.com/E3RHiNo.jpg)
@@ -63,20 +66,20 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | About me | M | 2hr|  hr | 
 | Contact forms| M | 3hr | hr|
 | Skills section | M | 3hr|  hr | 
-| Responsive | H | 3hr | hr | hr |
-| Total | H | 18hrs| hrs |
+| Responsive | H | 4.5hr | hr | hr |
+| Total | H | 19.5hrs| hrs |
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
 | Animations | L | 6hr | hr | hr |
 | Hover animations | L | 3hr | hr |
 | Videos | L | 4hr | hr |
-| Responsive | L | 4hr | hr | hr |
-| Total | H | 13hrs| hrs |
+| Contentful | M | 4hr | hr | hr |
+| Total | H | 17hrs| hrs |
 ## Additional Libraries
 - [getbootstrap.com](https://getbootstrap.com/docs/4.5/getting-started/introduction/)  
-- [contentful.com] (https://www.contentful.com/)
-- [Shoelace.style] (https://shoelace.style/)
+- [contentful.com](https://www.contentful.com/)
+- [Shoelace.style](https://shoelace.style/)
 ## Code Snippet
 Use this section to include a brief code snippet of functionality that you are proud of an a brief description  
 ```
