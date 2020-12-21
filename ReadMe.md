@@ -34,10 +34,12 @@ I posted the links below in Portfolio I Want To Emulate on which styles I'd like
 ## Wireframes
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
 - [Mobile](https://i.imgur.com/ogTq2tE.jpg)
-- [Tablet](https://i.imgur.com/9bv9bV2.jpg)
-- [Desktop](https://i.imgur.com/O9JQJOh.jpg)
-- [Desktop 2](https://i.imgur.com/09yOpc6.jpg)
-- [Desktop 3](https://i.imgur.com/wmRhvcI.jpg)
+- [Tablet](https://i.imgur.com/DSBZsaU.jpg)
+- [Tablet 2](https://i.imgur.com/ocImHr1.jpg)
+- [Tablet 3](https://i.imgur.com/Lg4o2iz.jpg)
+- [Desktop](https://i.imgur.com/wOLUdBD.jpg)
+- [Desktop 2](https://i.imgur.com/M9guELT.jpg)
+- [Desktop 3](https://i.imgur.com/osldNlq.jpg)
 
 ## Time/Priority Matrix 
 [Link](https://i.imgur.com/E3RHiNo.jpg)
