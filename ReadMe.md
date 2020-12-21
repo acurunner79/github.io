@@ -26,7 +26,7 @@ I posted the links below in Portfolio I Want To Emulate on which styles I'd like
 I really did enjoy these top four portfolios that I'd like to incorporate into my portfolio | 
 | ------------- | ------------- |
 | [Emily Ridge](https://ianlunn.co.uk/) |  Animated hamburger |
-|[Pierre](https://pierre.io/) | His Recent Work list is fun |
+| [Pierre](https://pierre.io/) | His Recent Work list is fun |
 | [Jacekjeznach.com] (https://jacekjeznach.com/) | Everything about his home page |
 | [mattfarley.ca](http://mattfarley.ca/) | The clean layout( Really liked this one) |
 ---
@@ -41,7 +41,7 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 
 ### MVP/PostMVP - 5min
 The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
-#### MVP (examples)
+#### MVP 
 - Basic layout of page
 - Create a navbar that is visually functional
 - Example images in place of final images 
@@ -57,28 +57,25 @@ Time frames are also key in the development cycle.  You have limited time to cod
 #### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Nav bar w/Drop menu | H | 1hr | hr |
-| Grid layout | H | 2hr | hr |
-| Cards | M | 1.5hr | hr |  
-| Carousel (Projects) | H | 1.5hr|  hr | 
-| Colors/CSS| M | 1.5hr | hr|
-|  | H | hr|  hr | 
-|  | H | hr | hr | hr |
-|  | L | hr | hr |
-| Total | H | 15.5hrs| hrs |
+| Nav bar w/Drop menu | H | 3hr | hr |
+| Grid & Flexbox layout | H | 3hr | hr |
+| Github pages | M | 1.5hr | hr |  
+| About me | M | 2hr|  hr | 
+| Contact forms| M | 3hr | hr|
+| Skills section | M | 3hr|  hr | 
+| Responsive | H | 3hr | hr | hr |
+| Total | H | 18hrs| hrs |
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Add Hover feature | L | 1hr | hr | hr |
-| Final product of carousel | L | 1hr | hr |
-| Add all final CSS touches | M | 4hr | hr |
-|  | H | hr | hr | hr |
-|  | H | hr | hr |
-|  | L | hr | hr |
-| Total | H | 20hrs| hrs |
+| Animations | L | 6hr | hr | hr |
+| Hover animations | L | 3hr | hr |
+| Videos | L | 4hr | hr |
+| Responsive | L | 4hr | hr | hr |
+| Total | H | 13hrs| hrs |
 ## Additional Libraries
-- [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)  
-- [Contentful] (https://www.contentful.com/)
+- [getbootstrap.com](https://getbootstrap.com/docs/4.5/getting-started/introduction/)  
+- [contentful.com] (https://www.contentful.com/)
 - [Shoelace.style] (https://shoelace.style/)
 ## Code Snippet
 Use this section to include a brief code snippet of functionality that you are proud of an a brief description  
