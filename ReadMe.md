@@ -37,7 +37,7 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 - [Desktop](https://i.imgur.com/O9JQJOh.jpg)(https://i.imgur.com/09yOpc6.jpg)(https://i.imgur.com/wmRhvcI.jpg)
 
 ## Time/Priority Matrix 
-[Link](https://i.imgur.com/wJ5AOGk.jpg)
+[Link](https://i.imgur.com/E3RHiNo.jpg)
 
 ### MVP/PostMVP - 5min
 The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
