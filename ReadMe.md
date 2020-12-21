@@ -27,7 +27,7 @@ I really did enjoy these top four portfolios that I'd like to incorporate into m
 | ------------- | ------------- |
 | [Emily Ridge](https://ianlunn.co.uk/) |  Animated hamburger |
 |[Pierre](https://pierre.io/) | His Recent Work list is fun |
-| [JacekJeznach] (https://jacekjeznach.com/) | Everything about his home page |
+| [Jacekjeznach.com] (https://jacekjeznach.com/) | Everything about his home page |
 | [mattfarley.ca](http://mattfarley.ca/) | The clean layout( Really liked this one) |
 ---
 ## Wireframes
