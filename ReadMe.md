@@ -25,10 +25,10 @@ I posted the links below in Portfolio I Want To Emulate on which styles I'd like
 
 I really did enjoy these top four portfolios that I'd like to incorporate into my portfolio | 
 | ------------- | ------------- |
-| [Emily Ridge](https://ianlunn.co.uk/) |  Animated hamburger
+| [Emily Ridge](https://ianlunn.co.uk/) |  Animated hamburger |
 |[Pierre](https://pierre.io/) | His Recent Work list is fun |
- [JacekJeznach] (https://jacekjeznach.com/) | Everything about his home page
-| [mattfarley.ca](http://mattfarley.ca/) | The clean layout( Really liked this one)
+| [JacekJeznach] (https://jacekjeznach.com/) | Everything about his home page |
+| [mattfarley.ca](http://mattfarley.ca/) | The clean layout( Really liked this one) |
 ---
 ## Wireframes
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
