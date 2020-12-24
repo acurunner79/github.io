@@ -38,3 +38,27 @@ body {
 /* *******************************************
 ****** PROJECT STYLES
 ******************************************* */
+
+body {
+
+}
+
+navbar {
+  display: block;
+}
+
+.navbar-collapse {
+  /* position: absolute; */
+}
+
+
+div.main-container {
+  border: 1px solid red;
+  background-color: blue;
+  width:100px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  
+}
+
