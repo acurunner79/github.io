@@ -40,7 +40,9 @@ body {
 ******************************************* */
 
 body {
-
+  display: grid;
+  grid-template-rows: 1px 1px;
+  grid-template-columns: 1px 1px 1px;
 }
 
 navbar {
@@ -62,3 +64,6 @@ div.main-container {
   
 }
 
+section#about-me {
+  border: 1px solid black;
+}
