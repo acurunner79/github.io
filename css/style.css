@@ -40,7 +40,7 @@ body {
 ******************************************* */
 
 body {
-
+   
   /* display: grid;
   grid-template-rows: 1px 1px 1px 1px;
   grid-template-columns: 1px 1px 1px 4px; */
@@ -57,7 +57,7 @@ navbar {
 
 div.main-grid {
   height: 700px;
-  border: 1px solid black;
+  /* border: 1px solid black; */
   
 }
 
@@ -69,7 +69,7 @@ div.main-grid {
 }
 
 #my-image {
-  
+  border-radius: 50%;
   background-image: url("http://res.cloudinary.com/acurunner79/image/upload/c_scale,h_296/v1609347442/50049604_10213007986706278_8733739099321532416_o_artgtd.jpg");
   height: 300px;
   width: 300px;
@@ -96,9 +96,10 @@ div.item-container {
 }
 
 section.skills {
-  margin: auto;
+  /* margin: 20px; */
   display: grid;
   grid-gap: 1em;
+  
   
 }
 section.bottom-container {
@@ -115,6 +116,10 @@ section.bottom-container {
 }
 @media only screen and (min-width: 426px) {
 
+  body {
+    margin: 0px 90px 0px 90px;
+  }
+
   #image-text {
     grid-row: 1/2;
   }
@@ -124,6 +129,7 @@ section.bottom-container {
   }
 
   section.skills {
+    justify-content: space-around;
     grid-template-columns: 15% 15% 15% 15% 15% 15%;
   }
 
@@ -183,5 +189,6 @@ section.bottom-container {
 
   div.projects:last-child {
     grid-column: 5/7;
+    grid-row: 1/2;
   }
 }
