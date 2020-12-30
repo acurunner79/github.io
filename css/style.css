@@ -69,10 +69,10 @@ div.main-grid {
 }
 
 #my-image {
-  background-color: cadetblue;
-  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4f74dad2-a7b0-4bc0-9a03-5208f406c9b8/d1my78f-ac92c1ed-819d-4aca-83f7-27debfcf2cc2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi80Zjc0ZGFkMi1hN2IwLTRiYzAtOWEwMy01MjA4ZjQwNmM5YjgvZDFteTc4Zi1hYzkyYzFlZC04MTlkLTRhY2EtODNmNy0yN2RlYmZjZjJjYzIucG5nIn1dXX0.JdU_BUX9SNNx_ovMxQe2vM64bQ6TiQZ64bkXH85jFaw");
-  height:100px;
-  width: 100px;
+  
+  background-image: url("http://res.cloudinary.com/acurunner79/image/upload/c_scale,h_296/v1609347442/50049604_10213007986706278_8733739099321532416_o_artgtd.jpg");
+  height: 300px;
+  width: 300px;
   grid-row: 1/2;
   grid-column: 2/3;
 }
@@ -102,20 +102,18 @@ section.skills {
   
 }
 section.bottom-container {
-  border: 1px solid black;
+  /* border: 1px solid black; */
   grid-template-rows: 33% 33% 33%;
   display: grid;
-  grid-gap: 1em;
+  /* grid-gap: 3em; */
+  justify-content: space-evenly;
 }
 
 .projects {
-  border: 1px solid black;
-  background-color: darkviolet;
+  /* border: 1px solid black;
+  background-color: darkviolet; */
 }
 @media only screen and (min-width: 426px) {
-  body {
-    background-color: lightblue;
-  }
 
   #image-text {
     grid-row: 1/2;
@@ -161,10 +159,7 @@ section.bottom-container {
 }
 
 @media only screen and (min-width: 769px) {
-  body {
-    background-color: gray;
-  }
-
+ 
   div.item-container:first-child {
     grid-column: 1/3;
   }
