@@ -12,6 +12,3 @@ $body.append($nav)
 // $section.attr("id", "about-me")
 // $section.text("<h2>About me goes here</h2>")
 // $body.append($section)
-
-
-
