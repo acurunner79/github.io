@@ -8,8 +8,8 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |---|---| ---|
 |Day 1| My Portfolio | Complete
 |Day 1| Wireframes / Priority Matrix / Timeline | Complete
-|Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
-|Day 4| MVP & Bug Fixes | Incomplete
+|Day 3| Core Application Structure (HTML, CSS, etc.) | Complete
+|Day 4| MVP & Bug Fixes | Complete
 |Day 5| Final Touches | Incomplete
 |Day 6| Present | Incomplete
 
@@ -62,13 +62,13 @@ Time frames are also key in the development cycle.  You have limited time to cod
 #### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Nav bar w/Drop menu | H | 3hr | hr |
-| Grid & Flexbox layout | H | 3hr | hr |
-| Github pages | M | 1.5hr | hr |  
-| About me | M | 2hr|  hr | 
+| Nav bar w/Drop menu | H | 3hr | 2.5hr |
+| Grid & Flexbox layout | H | 3hr | 4hr |
+| Github pages | M | 1.5hr | 1.5hr |  
+| About me | M | 2hr|  2hr | 
 | Contact forms| M | 3hr | hr|
-| Skills section | M | 3hr|  hr | 
-| Responsive | H | 4.5hr | hr | hr |
+| Skills section | M | 3hr|  3hr | 
+| Responsive | H | 4.5hr | hr | 4hr |
 | Total | H | 19.5hrs| hrs |
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
