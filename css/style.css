@@ -2,6 +2,7 @@
 ****** PROJECT SETUP
 ******************************************* */
 
+
 /* VARIABLES */
 :root {
   /* MAIN COLORS */
@@ -16,9 +17,9 @@
 
 /* GLOBAL STYLES */
 * {
-  padding: 0;
+  /* padding: 0;
   margin: 0;
-  box-sizing: border-box;
+  box-sizing: border-box; */
   /* outline: 2px solid gold; */
 }
 
@@ -28,7 +29,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: var(--title);
+  font-family: "Goldman";
 }
 
 body {
@@ -39,11 +40,12 @@ body {
 ****** PROJECT STYLES
 ******************************************* */
 
+@import url('https://fonts.googleapis.com/css2?family=Goldman&display=swap');
+
 body {
-   
-  /* display: grid;
-  grid-template-rows: 1px 1px 1px 1px;
-  grid-template-columns: 1px 1px 1px 4px; */
+   background-image: url("");
+   background-position: center;
+   background-repeat: no-repeat;
 }
 
 navbar {
@@ -60,39 +62,71 @@ div.main-grid {
   /* border: 1px solid black; */
   
 }
+.fas {
+  font-size: 25px;
+  /* background-color: blue; */
+}
 
+.keyboard {
+  /* border: 1px solid black; */
+  height: 300px;
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+  margin-top: -197px;
+
+}
 .main-grid {
   display: grid;
   grid-template-columns: 25% 50% 25%;
   grid-template-rows: 25% 25% 25%;
   align-items: center;
+  margin-bottom: -190px;
 }
 
 #my-image {
-  border-radius: 50%;
-  background-image: url("http://res.cloudinary.com/acurunner79/image/upload/c_scale,h_296/v1609347442/50049604_10213007986706278_8733739099321532416_o_artgtd.jpg");
-  height: 300px;
-  width: 300px;
+  border: 0px;
+  /* border-radius: 200%; */
+  background-image: url("https://res.cloudinary.com/acurunner79/image/upload/c_scale,h_250/v1609628595/a41da708-81e9-4ec3-9364-9d8748f7063d-abefd9c3-2fd7-4408-9b0a-a57280c0ca82-v1_iaim8e.png");
+  height: 250px;
+  width: 250px;
   grid-row: 1/2;
   grid-column: 2/3;
+  justify-self: center;
+  /* box-shadow: 0 10px 10px 10px white inset; */
+  /* margin-right: 30px */
 }
 
 #image-text {
-  background-color: crimson;
-  border: 1px solid black;
+  /* background-color: crimson;
+  border: 1px solid black; */
+  justify-self: center;
+  text-align: center;
   grid-row: 2/3;
   grid-column: 2/3;
 }
 
+img {
+  height: 100px;
+  align-items: center;
+}
 #about-me {
-  background-color: darkolivegreen;
+  background-color: black;
+  /* height: 150px; */
+  max-width: 645px;
   grid-row: 3/4;
-  grid-column: 2/3;
+  grid-column: 1/4;
+  font-family: "Goldman";
+  justify-self: center;
+  text-align: center;
+  color: white;
 }
 
 div.item-container {
   border: 1px solid black;
-  background-color: yellow;
+  /* background-color: yellow; */
 }
 
 section.skills {
@@ -118,6 +152,9 @@ section.bottom-container {
 
   body {
     margin: 0px 90px 0px 90px;
+  }
+  .keyboard {
+    margin-top: -227px;
   }
 
   #image-text {
