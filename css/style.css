@@ -184,11 +184,12 @@ div.card-body {
   text-shadow: 1px 2px white;
 }
 
-.projects {
+div.projects {
   /* border: 1px solid black;
   background-color: darkviolet; */
   margin-top: 10px;
   padding-top: 50px;
+   
 }
 
 div.mb-3 {
