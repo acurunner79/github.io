@@ -9,7 +9,7 @@ $.ajax("https://spreadsheets.google.com/feeds/list/1GngbnJmQbGTRqSRAIn0GDWu3cRhh
     // Checking my data
     console.log(data)
 
-    // Put our projects in a cariable
+    // Put our projects in a variable
     const rawProjects = data.feed.entry
 
     console.log(rawProjects)
@@ -31,27 +31,30 @@ $.ajax("https://spreadsheets.google.com/feeds/list/1GngbnJmQbGTRqSRAIn0GDWu3cRhh
 /////////////////////////////////////////
 //  USE JQUERY TO RENDER PROJECTS TO PAGE
 //////////////////////////////////////////
+const $myProjects = $(".projects")
+for (let i=0;i < $myProjects.length; i++) {
 
+    const $img = projects[i].img
+    const $name = projects[i].name
+    const $desc = projects[i].description
+
+    $(".col-md-4").eq(i).html(`<img src="${$img}">`)
+    $(".card-title").eq(i).text($name)
+    $(".card-text").eq(i).text($desc)
+
+}
 
 })
 
-
-
-
-
-
 // PULL DATA
-
-// for (i=0;i < projects.length; i++) {
-//     const $div = $(
-//         `<div class="card" style="width: 18rem;">
-//         <img src=${projects[i].img} class="card-img-top" alt="project">
-//         <div class="card-body">
-//         <h5 class="card-title">${projects[i].name}</h5>
-//         <p class="card-text">${projects[i].description}</p>
-//         <a href=${projects[i].live} class="btn">Check it out</a>
-//         </div>
-//         </div>`
-//     )
+    // const $div = $(
+    //     `<div class="card" style="width: 18rem;">
+    //     <img src=${projects[i].img} class="card-img-top" alt="project">
+    //     <div class="card-body">
+    //     <h5 class="card-title">${projects[i].name}</h5>
+    //     <p class="card-text">${projects[i].description}</p>
+    //     <a href=${projects[i].live} class="btn">Check it out</a>
+    //     </div>
+    //     </div>`
+    // )
 // $("#projects").append($div)
-// }

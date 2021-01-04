@@ -98,13 +98,14 @@
          <div class="projects"><div class="card mb-3" style="max-width: 540px;">
           <div class="row g-0">
             <div class="col-md-4">
-              <img src="https://res.cloudinary.com/acurunner79/image/upload/c_scale,h_308/v1609649280/maxresdefault_s0wyjl.jpg" alt="project image">
+              <img src="https://res.cloudinary.com/acurunner79/image/upload/c_scale,h_308/v1609649280/maxresdefault_s0wyjl.jpg">
             </div>
             <div class="col-md-8">
               <div class="card-body">
-                <h5 class="card-title">Project title</h5>
-                <p class="card-text">This is where my project description will show.</p>
-                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                <h5 class="card-title"></h5>
+                <p class="card-text"></p>
+                <button type="button" class="btn btn-outline-primary" onclick="window.location.href='https://acurunner79.github.io/lotr/';">View</button>
+                <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
               </div>
             </div>
           </div>
@@ -116,9 +117,10 @@
             </div>
             <div class="col-md-8">
               <div class="card-body">
-                <h5 class="card-title">Project title</h5>
-                <p class="card-text">This is where my project description will show.</p>
-                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                <h5 class="card-title"></h5>
+                <p class="card-text"></p>
+                <button type="button" class="btn btn-outline-primary" onclick="window.location.href='';">View</button>
+                <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
               </div>
             </div>
           </div>
@@ -130,22 +132,29 @@
             </div>
             <div class="col-md-8">
               <div class="card-body">
-                <h5 class="card-title">Project title</h5>
-                <p class="card-text">This is where my project description will show.</p>
-                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                <h5 class="card-title"></h5>
+                <p class="card-text"></p>
+                <button type="button" class="btn btn-outline-primary" onclick="window.location.href='';">View</button>
+                <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
               </div>
             </div>
           </div>
         </div></div>
        </section>
-       <a id="contact-form"></a>
+       <form id="contact-form" action="https://formspree.io/f/mwkwaevn" method="post">
        <div class="mb-3">
-        <label for="exampleFormControlInput1" class="form-label">Email address</label>
-        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+        <label for="exampleFormControlInput1" class="form-label">Name</label>
+        <input type="text" name="name" class="form-control" id="exampleFormControlInput1" placeholder="Your name">
+      </div>
+      <div class="mb-3">
+        <label for="exampleFormControlInput2" class="form-label">Email address</label>
+        <input type="email" name="_replyto" class="form-control" id="exampleFormControlInput2" placeholder="name@example.com">
       </div>
       <div class="mb-3">
         <label for="exampleFormControlTextarea1" class="form-label">Your message</label>
         <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
       </div>
+      <button id="info-submit" type="submit">Send</button>
+      </form>
   </body>
 </html>
